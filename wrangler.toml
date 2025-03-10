@@ -1,0 +1,6 @@
+name = "hyperfastapi"
+compatibility_date = "2024-09-04"
+
+[vars]
+UPSTASH_REDIS_REST_TOKEN="AehnAAIjcDE5YWMwMTM5ZGM0NDk0YjM1YmE0MDIxNzQxNmU5MjY1ZnAxMA"
+UPSTASH_REDIS_REST_URL="https://rapid-egret-59495.upstash.io"
