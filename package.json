@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "deploy":"wrangler deploy --minify --name hyperfastapi app/api/[[...route]]/route.ts"
+    "deploy": "wrangler deploy --minify --name hyperfastapi app/api/[[...route]]/route.ts"
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.1",
@@ -18,7 +18,7 @@
     "cmdk": "^1.0.0",
     "hono": "^4.5.5",
     "lucide-react": "^0.438.0",
-    "next": "14.2.5",
+    "next": "14.2.35",
     "react": "^18",
     "react-dom": "^18",
     "tailwind-merge": "^2.5.2",
